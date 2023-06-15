@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/techystar/static/css/main.d216ca83.css",
+    "main.js": "/techystar/static/js/main.de1dcfa8.js",
+    "static/media/1.png": "/techystar/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/techystar/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/techystar/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/techystar/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/techystar/index.html",
+    "main.d216ca83.css.map": "/techystar/static/css/main.d216ca83.css.map",
+    "main.de1dcfa8.js.map": "/techystar/static/js/main.de1dcfa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d216ca83.css",
+    "static/js/main.de1dcfa8.js"
+  ]
+}
